@@ -2,16 +2,6 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I'm+MOHAMMAD+F+ALDOSARI;DevSecOps+%7C+Cloud+and+IaC+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  🚀 Passionate about DevSecOps and Cloud Computing <br/>
-  💻 Skilled in Frontend & Backend Development <br/>
-  🛠️ IaC with Terraform & Ansible, Dockerized Deployment<br/>
-     SaC with Ansible <br/>
-     Containerize applications and Deploy them with Docker <br/>
-  ☁️ Digital Transformation on AWS & Azure <br/>
-     Proficient in Python 🐍 | Go 🦫 | JavaScript ⚡
-</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfldosari&label=Profile%20views&color=0e75b6&style=flat" alt="mfldosari" />
 </p>
