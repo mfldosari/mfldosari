@@ -3,6 +3,11 @@
 </h1>
 
 <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&color=58A6FF&center=true&width=700&lines=%F0%9F%9A%80+Passionate+about+DevSecOps+and+Cloud+Computing;💻+Skilled+in+Frontend+%26+Backend+Development;🛠️+IaC+with+Terraform+%26+Ansible,+Dockerized+Deployment;🛠️+SaC+with+Ansible;🐳+Containerize+applications+and+Deploy+them+with+Docker;☁️+Digital+Transformation+on+AWS+%26+Azure;🐍+Proficient+in+Python+%7C+Go+%7C+JavaScript+%E2%9A%A1" alt="Animated typing" />
+</h3>
+
+
+<h3 align="center">
   🚀 Passionate about DevSecOps and Cloud Computing <br/>
   💻 Skilled in Frontend & Backend Development <br/>
   🛠️ IaC with Terraform & Ansible, Dockerized Deployment<br/>
