@@ -2,42 +2,15 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I'm+MOHAMMAD+F+ALDOSARI;DevSecOps+%7C+Cloud+and+IaC+Engineer" alt="Typing SVG" />
 </h1>
 
-<style>
-  .animated-text {
-    text-align: center;
-    font-family: 'Fira Code', monospace;
-    color: #58A6FF;
-  }
-  .animated-text span {
-    display: block;
-    opacity: 0;
-    animation: fadeIn 1s forwards;
-  }
-  .animated-text span:nth-child(1) { animation-delay: 0s; }
-  .animated-text span:nth-child(2) { animation-delay: 2s; }
-  .animated-text span:nth-child(3) { animation-delay: 4s; }
-  .animated-text span:nth-child(4) { animation-delay: 6s; }
-  .animated-text span:nth-child(5) { animation-delay: 8s; }
-  .animated-text span:nth-child(6) { animation-delay: 10s; }
-  .animated-text span:nth-child(7) { animation-delay: 12s; }
-
-  @keyframes fadeIn {
-    to { opacity: 1; }
-  }
-</style>
-
-<h3 class="animated-text">
-  <span>🚀 Passionate about DevSecOps and Cloud Computing</span>
-  <span>💻 Skilled in Frontend & Backend Development</span>
-  <span>🛠️ IaC with Terraform & Ansible, Dockerized Deployment</span>
-  <span>🛠️ SaC with Ansible</span>
-  <span>🐳 Containerize applications and Deploy them with Docker</span>
-  <span>☁️ Digital Transformation on AWS & Azure</span>
-  <span>🐍 Proficient in Python | Go | JavaScript ⚡</span>
+<h3 align="center">
+  🚀 Passionate about DevSecOps and Cloud Computing <br/>
+  💻 Skilled in Frontend & Backend Development <br/>
+  🛠️ IaC with Terraform & Ansible, Dockerized Deployment<br/>
+     SaC with Ansible <br/>
+     Containerize applications and Deploy them with Docker <br/>
+  ☁️ Digital Transformation on AWS & Azure <br/>
+     Proficient in Python 🐍 | Go 🦫 | JavaScript ⚡
 </h3>
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfldosari&label=Profile%20views&color=0e75b6&style=flat" alt="mfldosari" />
