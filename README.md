@@ -6,6 +6,8 @@
   🚀 Passionate about DevSecOps and Cloud Computing <br/>
   💻 Skilled in Frontend & Backend Development <br/>
   🛠️ IaC with Terraform & Ansible, Dockerized Deployment<br/>
+     SaC with Ansible <br/>
+     Containerize applications and Deploy them with Docker <br/>
   ☁️ Digital Transformation on AWS & Azure <br/>
      Proficient in Python 🐍 | Go 🦫 | JavaScript ⚡
 </h3>
@@ -25,21 +27,21 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mohammad-fahad-aldosari-5a6403227" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
   </a>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,ansible,linux,git,go,python,javascript,react,nodejs,mysql,postgres,mongodb,jenkins,bash" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfldosari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mfldosari" />
 </p>
