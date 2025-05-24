@@ -1,13 +1,13 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I'm+MOHAMMAD+F+ALDOSARI;DevSecOps+%7C+Cloud+Engineer+%7C+IaC+Specialist" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I'm+MOHAMMAD+F+ALDOSARI;DevSecOps+%7C+Cloud+IaC+Engineer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  🚀 Passionate about DevSecOps and Cloud Computing 🌩️<br/>
-  💻 Skilled in Frontend & Backend Development 🧠<br/>
-  🛠️ IaC with Terraform & Ansible ⚙️ Dockerized Deployment 🐳<br/>
-  ☁️ Digital Transformation on AWS & Azure 🚀<br/>
-  💬 Proficient in Python 🐍 | Go 🦫 | JavaScript ⚡
+  🚀 Passionate about DevSecOps and Cloud Computing <br/>
+  💻 Skilled in Frontend & Backend Development <br/>
+  🛠️ IaC with Terraform & Ansible, Dockerized Deployment<br/>
+  ☁️ Digital Transformation on AWS & Azure <br/>
+     Proficient in Python 🐍 | Go 🦫 | JavaScript ⚡
 </h3>
 
 <p align="center">
