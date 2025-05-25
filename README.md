@@ -5,9 +5,10 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,ansible,linux,git,go,python,javascript,react,nodejs,mysql,postgres,mongodb,jenkins,bash" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker,terraform,ansible,linux,git,go,python,javascript,react,nodejs,mysql,postgres,mongodb,jenkins,bash" />
 </p>
 
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes)](https://kubernetes.io)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)](https://azure.microsoft.com)
 [![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)](https://www.docker.com)
@@ -27,7 +28,6 @@
 [![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions)](https://github.com/features/actions)
 [![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-Modern%20Tech-00BCD4)](https://en.wikipedia.org/wiki/Digital_transformation)
-
 
 
 ---
