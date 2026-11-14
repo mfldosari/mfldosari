@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I'm+MOHAMMAD+F+ALDOSARI;DevOps+%7C+Cloud+and+IaC+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&width=700&lines=Hi%2C+I'm+MOHAMMAD+F+ALDOSARI;DevOps+%7C+Data+%7C+Cloud+and+IaC+Engineer" alt="Typing SVG" />
 </h1>
 
 ---
@@ -24,6 +24,14 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql)](https://www.mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)](https://www.mongodb.com)
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-Orchestration-017CEE?logo=apacheairflow&logoColor=white)](https://airflow.apache.org)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-Processing-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Streaming-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org)
+[![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-TableFormat-00A4E4?logo=apacheiceberg&logoColor=white)](https://iceberg.apache.org)
+[![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-DataIntegration-728E9B?logo=apachenifi&logoColor=white)](https://nifi.apache.org)
+[![Apache Hive](https://img.shields.io/badge/Apache_Hive-DataWarehouse-FDEE21?logo=apachehive&logoColor=black)](https://hive.apache.org)
+[![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-BigData-66CCFF?logo=apachehadoop&logoColor=black)](https://hadoop.apache.org)
+[![Apache Flink](https://img.shields.io/badge/Apache_Flink-Streaming-E6526F?logo=apacheflink&logoColor=white)](https://flink.apache.org)
 [![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins)](https://www.jenkins.io)
 [![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions)](https://github.com/features/actions)
@@ -32,7 +40,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Jenkins and DevOps tools**  
 - ⚡ Fun fact: **2012's CALL OF DUTY FAN**
 
 ---
@@ -43,12 +50,3 @@
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
   </a>
 </p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfldosari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mfldosari" />
-</p>
-
-
